@@ -1,0 +1,282 @@
+.begin {
+    display: flex; 
+    justify-content: space-between;
+    
+
+}
+div.begin button {
+    background-color: #e50914dd;
+    border-radius: 8px;
+    color: white; 
+    
+       
+} 
+
+
+div.logo {
+    color: red;
+    font-size: 10px;
+    font-weight: 300;
+    margin-top: 0;
+}
+
+
+
+div.watch input {
+    font-size: 20px;
+  
+}
+div.watch button{
+    font-size: 20px;
+
+}
+
+
+
+.section1 {
+    padding: 10px 0px;
+    text-align: center;
+    width: 100%;    
+    background-image: url("images/Netflix1.jpg")
+
+      
+}
+
+div.watch {
+    padding: 80px;
+    color: white 
+}
+
+div.watch h1 {
+    font-size: 50px
+}
+
+div.watch p {
+    font-size: 30px
+}
+
+div.videos {
+    justify-content: center;
+    padding-left: 100px;
+    
+}
+
+section.section2 {
+    display: flex;
+    border-top: 8px solid rgb(61, 60, 60); 
+    border-bottom: 8px solid #222;
+    background-color: black;
+    padding: 10%;
+    
+}
+
+
+section.section2 h1 {
+    color: white;
+
+}
+
+div.smartv {
+    justify-content: space-around;
+}
+
+div.smartv h1 {
+    font-size: 60px;
+    text-align: justify;
+    
+}
+
+div.smartv p {
+    font-size: 30px;
+    justify-content: center;
+}
+
+
+
+section.section3 {
+    border-bottom: 8px solid #222;  
+    display: flex; 
+    align-items: center;
+
+    
+}
+
+div.pix {
+    padding: 50px;
+}
+
+div.shows {
+    padding: 90px;
+    color: white;
+}
+
+div.shows h1 {
+    text-decoration: solid;
+    font-size: 55px;
+    padding: 10px; 
+}
+
+div.shows h3 {
+    font-size: 30px;
+    padding: 0px;
+}
+
+
+
+section.section4 {
+    border-bottom: 8px solid #222; 
+    padding-left: 12%;
+    padding-right: 50%;
+}
+.section4 p {
+    font-size: 30px;
+    color: white;
+
+        
+}
+.section4 h1 {
+    font-size: 60px;
+    color: white;
+    
+}
+
+section.section2 p {
+    color: white;
+}
+
+body {
+    padding: 10px;
+    background-color: black   
+}
+
+
+div.FAQ {
+        padding: 10px;
+        width: 50%;
+        background-color: #eeeeee;
+        border: none;
+        box-shadow: 1px 1px 2px #bbbbbb;
+        cursor: pointer;
+        align-content: center;
+        
+      }
+      
+      details > p {
+        background-color: #eeeeee;
+        padding: 4px;
+        margin: 0;
+      }
+
+ li {
+    color: white;
+ }
+
+ /*Section 5*/
+
+ .section5 {
+    display: flex;
+    border-bottom: 8px solid #222;
+    align-items: center;
+    
+  
+ }
+ 
+ .section5 h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 400px;
+ }
+
+ .section5 h3 {
+    color: white;
+    font-size: 30px;
+    padding-left: 10px;
+ }
+ div.kids-pro {
+    padding: 90px;
+    text-align: left; 
+    border-top: 100px;
+    margin-left: 0px;
+ }
+ 
+ div.kids-img {
+   padding: 50px;
+   margin: auto;
+ }
+
+ /*SECTION 6*/
+
+.section6 h1 {
+    color: white;
+    align-content: center;
+    font-size: 50px;
+}
+ 
+div.notes {
+   color: white;
+   text-align: center;
+   font-weight: 300;
+   font-size: 30px;
+  
+}
+
+
+ 
+    
+.section7 {
+    
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.section6 {
+    justify-content: center;
+    margin-top: 70px;
+    padding-left: 400px;
+    
+}
+
+details.faq1 , details.faq2, details.faq3, details.faq4, details.faq5, details.faq6 {
+    color: white;
+    border-bottom: 8px solid rgb(228, 224, 224); width: 80%;
+    background-color: #303030;
+    border: 0;
+    font-weight: 400;
+    margin-bottom: 1px;
+    padding: 0.8em 2.2em 0.8em 1.2em;
+    font-size: larger;
+   
+}
+
+p.ans1, p.ans2, p.ans3, p.ans4, p.ans5, p.ans6 {
+    background: #303030;
+    display: block;
+    text-align: left;
+}
+
+
+
+td {
+    list-style-type: none;
+    justify-content: space-between;
+   
+}
+
+div.section7 {
+    color: white;
+    padding: 100px 400px;
+    justify-content: space-around;
+    font-size: 26px;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 8px solid #222;
+    
+}
+.section7 p{
+    color: white;
+}
+.td 
+[
+
+]
